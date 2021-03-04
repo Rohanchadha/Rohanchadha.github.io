@@ -28,7 +28,8 @@ url: "https://rohanchadha.github.io" # the base hostname & protocol for your sit
 github_username:  rohanchadha
 
 # Build settings
-theme: minima
+# Removed minima theme as it is a regular theme now.
+# theme: minima
 plugins:
   - jekyll-feed
 
