@@ -18,17 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rohan Chadha
-email: rohanchadha.07@gmail.com
+title: Rohan Chadha's Blog
+author:
+  name: Rohan Chadha
+  email: rohanchadha.07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    Welcome to my blog site!
 baseurl: "/rohanchadha" # the subpath of your site, e.g. /blog
 url: "https://rohanchadha.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username:  rohanchadha
+
+show_excerpts: true # set to true to show excerpts on the homepage
+minima:
+  social_links:
+    github:  rohanchadha
+    linkedin: rohan-chadha
 
 # Build settings
-theme: minima
+# Removed minima theme as it is a regular theme now.
+# theme: minima
 plugins:
   - jekyll-feed
 
