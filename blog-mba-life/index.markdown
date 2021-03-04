@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-mba-life
-title: "MBA Life Blog"
+title: "MBA Life"
 category: mba-life
 ---
