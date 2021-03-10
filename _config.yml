@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rohan Chadha
+title: Anjali Chadha
 author:
-  name: Rohan Chadha
-  email: rohanchadha.07@gmail.com
+  name: Anjali Chadha
+  email: anjali.chadha229@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    Welcome to my blog site!
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://rohanchadha.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://anjali-chadha.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 show_excerpts: true # set to true to show excerpts on the homepage
 minima:
   social_links:
-    github:  rohanchadha
-    linkedin: rohan-chadha
+    github:  anjali-chadha
+    linkedin: anjalichadha
 
 # Build settings
 # Removed minima theme as it is a regular theme now.
